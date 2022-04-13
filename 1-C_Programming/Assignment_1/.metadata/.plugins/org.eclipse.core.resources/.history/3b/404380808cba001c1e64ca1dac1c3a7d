@@ -1,0 +1,11 @@
+/***************************************************************************************************
+ * Name: Assignment1_Ex17.c
+ * Author: Ahmed M. AbdEl-kareem
+ * Description: a program to count number of digits in a decimal number.
+ ***************************************************************************************************/
+#include<stdio.h>
+
+int main()
+{
+
+}

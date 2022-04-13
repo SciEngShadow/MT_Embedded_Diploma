@@ -1,0 +1,12 @@
+/***************************************************************************************************
+ * Name: Assignment1_Ex18.c
+ * Author: Ahmed M. AbdEl-kareem
+ * Description: a program to display half pyramid using stars pattern.
+ ***************************************************************************************************/
+#include<stdio.h>
+
+int main()
+{
+
+
+}

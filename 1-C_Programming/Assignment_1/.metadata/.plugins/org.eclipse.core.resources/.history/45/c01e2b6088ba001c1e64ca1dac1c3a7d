@@ -1,0 +1,20 @@
+/***************************************************************************************************
+ * Name: Assignment1_Ex15.c
+ * Author: Ahmed M. AbdEl-kareem
+ * Description:   a program to calculate the power of a number..
+ ***************************************************************************************************/
+#include<stdio.h>
+
+int main()
+{
+	int num,pow;
+
+	printf("Enter Number:");
+	fflush(stdin);fflush(stdout);
+	scanf("%d",&num);
+
+	printf("Enter Number:");
+	fflush(stdin);fflush(stdout);
+	scanf("%d",&num);
+
+}

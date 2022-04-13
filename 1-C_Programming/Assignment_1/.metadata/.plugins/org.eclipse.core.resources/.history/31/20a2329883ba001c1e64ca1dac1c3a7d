@@ -1,0 +1,23 @@
+/***************************************************************************************************
+ * Name: Assignment1_Ex13.c
+ * Author: Ahmed M. AbdEl-kareem
+ * Description:   a program that reads a positive integer and checks if it is a prime.
+ ***************************************************************************************************/
+#include<stdio.h>
+
+int main()
+{
+	int num;
+
+	printf("Enter Your Positive Number:");
+	fflush(stdin);fflush(stdout);
+	scanf("%d",&num);
+	while(num<=0)
+	{
+		printf("Enter Your Positive Number:");
+		fflush(stdin);fflush(stdout);
+		scanf("%d",&num);
+	}
+
+
+}

@@ -1,0 +1,15 @@
+/***************************************************************************************************
+ * Name: Assignment1_Ex9.c
+ * Author: Ahmed M. AbdEl-kareem
+ * Description:  a program that reads a student grade percentage.
+ ***************************************************************************************************/
+
+#include<stdio.h>
+
+int main()
+{
+	int grade;
+	printf("enter your grade:");
+	fflush(stdin);fflush(stdout);
+
+}

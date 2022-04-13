@@ -1,0 +1,14 @@
+/***************************************************************************************************
+ * Name: Assignment1_Ex7.c
+ * Author: Ahmed M. AbdEl-kareem
+ * Description:  a program that takes three integers, and prints out the smallest number
+ ***************************************************************************************************/
+#include<stdio.h>
+
+int main()
+{
+	int num1,num2,num3;
+
+	printf("Enter Num1:");
+	fflush(stdin);fflush(stdout);
+}

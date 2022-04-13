@@ -1,0 +1,30 @@
+/***************************************************************************************************
+ * Name: Assignment1_Ex20.c
+ * Author: Ahmed M. AbdEl-kareem
+ * Description: program to display a full pyramid using stars pattern.
+ ***************************************************************************************************/
+#include<stdio.h>
+
+int main()
+{
+	int row=0;
+
+	printf("enter no. of rows:");
+	fflush(stdin);fflush(stdout);
+	scanf("%d",&row);
+
+
+	for(int i=0;i<row;i++)
+	{
+		/* print the left spaces */
+		for(int j=i;j<rows-1;j++) printf(" ");
+
+		/* print the stars number of stars in each row = ((2 * Row Number) + 1) */
+		for(int j=0;j<((2*i)+1);j++) printf("*");
+
+		printf("\n");
+	}
+
+	return 0;
+}
+

@@ -1,0 +1,17 @@
+/***************************************************************************************************
+ * Name: Assignment1_Ex16.c
+ * Author: Ahmed M. AbdEl-kareem
+ * Description: a program to reverse a number.
+ ***************************************************************************************************/
+#include<stdio.h>
+
+int main()
+{
+	long num,result,reminder;
+
+	printf("enter your number:");
+	fflush(stdin);fflush(stdout);
+	scanf("%ld",&num);
+
+
+}
