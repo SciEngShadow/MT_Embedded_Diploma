@@ -1,0 +1,22 @@
+/***************************************************************************************************
+ * Name: Assignment2_Ex11.c
+ * Author: Ahmed M. AbdEl-kareem
+ * Description: Check Power of 2
+ ***************************************************************************************************/
+
+#include<stdio.h>
+
+int main()
+{
+	int num;
+
+	printf("Enter your Number:");
+	fflush(stdin);fflush(stdout);
+	scanf("%d",&num);
+
+}
+
+int Power2Check(int num)
+{
+	trunc();
+}

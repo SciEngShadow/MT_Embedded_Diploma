@@ -1,0 +1,14 @@
+/***************************************************************************************************
+ * Name: Assignment2_Ex5.c
+ * Author: Ahmed M. AbdEl-kareem
+ * Description: Write a C function to check if the input is an even number or an odd number, if even number return 0 if odd number return 1.
+ ***************************************************************************************************/
+#include<stdio.h>
+
+int main()
+{
+	int num;
+
+	printf("Enter your Number:");
+	fflush(stdin);fflush(fflush);
+}

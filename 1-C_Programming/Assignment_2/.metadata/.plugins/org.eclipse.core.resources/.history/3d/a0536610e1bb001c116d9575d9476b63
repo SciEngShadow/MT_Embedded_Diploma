@@ -1,0 +1,12 @@
+/***************************************************************************************************
+ * Name: Assignment2_Ex12.c
+ * Author: Ahmed M. AbdEl-kareem
+ * Description: C function that calculates the required heater activation time according to the input temperature of wate
+ ***************************************************************************************************/
+
+#include<stdio.h>
+
+int main()
+{
+
+}

@@ -1,0 +1,4 @@
+04:56:50 **** Incremental Build of configuration Debug for project Assignment2_Ex20 ****
+Info: Internal Builder is used for build
+gcc -o Assignment2_Ex20.exe Assignment2_Ex20.o 
+Info: Nothing to build for Assignment2_Ex20

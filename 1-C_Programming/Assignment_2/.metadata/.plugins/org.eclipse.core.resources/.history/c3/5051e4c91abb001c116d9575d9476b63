@@ -1,0 +1,16 @@
+/***************************************************************************************************
+ * Name: Assignment2_Ex2.c
+ * Author: Ahmed M. AbdEl-kareem
+ * Description: C Function that takes one character and checks if it alphabet or not
+ ***************************************************************************************************/
+
+#include<stdio.h>
+
+int main()
+{
+	char ch;
+	printf("Enter your Character:");
+	fflush(stdin);fflush(stdout);
+	scanf("%d",&ch);
+
+}

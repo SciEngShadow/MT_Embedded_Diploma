@@ -1,0 +1,16 @@
+/***************************************************************************************************
+ * Name: Assignment2_Ex14.c
+ * Author: Ahmed M. AbdEl-kareem
+ * Description: C Function that calculate the Fibonacci series using recursive method.
+ ***************************************************************************************************/
+
+#include<stdio.h>
+int main()
+{
+	int num;
+
+	printf("Enter Number1:");
+	fflush(stdin);fflush(stdout);
+	scanf("%f",&num1);
+
+}

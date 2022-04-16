@@ -1,0 +1,17 @@
+/***************************************************************************************************
+ * Name: Assignment2_Ex3.c
+ * Author: Ahmed M. AbdEl-kareem
+ * Description: C Function that check if the number if positive or negative
+ ***************************************************************************************************/
+#include<stdio.h>
+
+int main()
+{
+	int num;
+
+	printf("Enter your Number:");
+	fflush(stdin);fflush(stdout);
+	scanf("%d",&num);
+
+
+}

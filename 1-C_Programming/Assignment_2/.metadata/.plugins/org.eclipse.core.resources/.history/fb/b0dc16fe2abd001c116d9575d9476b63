@@ -1,0 +1,18 @@
+/***************************************************************************************************
+ * Name: Assignment2_Ex18.c
+ * Author: Ahmed M. AbdEl-kareem
+ * Description: Given a positive integer z, check if z can be written as p^q, where p
+ * 				and q are positive integers than 1, if z can be written as p^q return 1 else
+ * 				return 0
+ ***************************************************************************************************/
+
+#include<stdio.h>
+int main()
+{
+	int num,
+	printf("Enter Number:");
+	fflush(stdin);fflush(stdout);
+	scanf("%d",&num);
+
+
+}

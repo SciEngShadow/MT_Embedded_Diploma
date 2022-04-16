@@ -1,0 +1,32 @@
+/***************************************************************************************************
+ * Name: Assignment2_Ex15.c
+ * Author: Ahmed M. AbdEl-kareem
+ * Description: C function to reverse the binary of an 8-bits number.
+ ***************************************************************************************************/
+
+#include<stdio.h>
+
+int main(void)
+{
+	unsigned char num1 = 0b11010001;
+	unsigned char num2;
+
+	/* Reverse num1 and put the new value in num2 */
+	num2 = reverseBits(num1);
+
+	/* print the value of num2 */
+	print_binary(num2);
+}
+
+unsigned char reverseBits(unsigned char num)
+{
+	unsigned char Bits_Num=sizeof(num)*8;
+	unsigned char i,Reverse_Num=0;
+
+	for(i=0;i<Bits_Num;i++)
+	{
+		if(num & (1<<i))
+	}
+
+	return Reverse_Num;
+}

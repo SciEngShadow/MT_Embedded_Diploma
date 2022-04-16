@@ -1,0 +1,21 @@
+/***************************************************************************************************
+ * Name: Assignment2_Ex7.c
+ * Author: Ahmed M. AbdEl-kareem
+ * Description: C Function that reads two integers and checks if the first is multiple of the second
+ ***************************************************************************************************/
+
+#include<stdio.h>
+
+int main()
+{
+	int num1,num2;
+
+	printf("Enter First Number:");
+	fflush(stdin);fflush(stdout);
+	scanf("%d",&num1);
+
+	printf("Enter Second Number:");
+	fflush(stdin);fflush(stdout);
+	scanf("%d",&num2);
+
+}

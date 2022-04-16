@@ -1,0 +1,7 @@
+04:18:19 **** Incremental Build of configuration Debug for project Assignment2_Ex19 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o Assignment2_Ex19.o "..\\Assignment2_Ex19.c" 
+gcc -o Assignment2_Ex19.exe Assignment2_Ex19.o 
+
+04:18:20 Build Finished. 0 errors, 0 warnings. (took 540ms)
+
